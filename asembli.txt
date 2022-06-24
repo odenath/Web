@@ -1,0 +1,24 @@
+descasamento entre desenvolvimento e operações
+desenvolvedores implementar a fiteres
+operação manter maior uptime possível
+deploid
+wall of confusion
+
+ansible --version
+ls -lan
+cat hosts
+
+ansible -i host quicklab -m ping
+cat hosts-kafka
+ansible -i host quicklab -m ping
+idepotente 
+super usuário
+ansible-playbook -i hosts-kafka amq-streams-pre-config-zk.yaml
+ansible = pix
+
+
+
+
+
+
+
